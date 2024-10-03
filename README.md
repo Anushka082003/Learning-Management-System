@@ -53,10 +53,6 @@
   <li>Create a Pull Request.</li>
 </ol>
 
-<h2>📄 License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-<h2>🔗 Links</h2>
-<p>For more information, visit the project page: <a href="https://www.sourcecodester.com/download-code?nid=14787&title=eLearning+System+using+PHP%2FMySQLi+with+Source+Code">Learning Management System</a>.</p>
 
 <p align="center">© 2024 Anushka082003</p>
