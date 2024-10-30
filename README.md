@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Learning Management System</h1>
+<h1 style="text-align:center;">LearnPro : Learning Management System</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="version">
